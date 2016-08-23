@@ -8,7 +8,5 @@
 
 Two options:
 
-* using a config.js file (similar to config.example.js)
+* passing a config.js file (similar to config.example.js)
 * answering the questions via command line
-
-After configuring it, just run `npm start`.
