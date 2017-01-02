@@ -1,6 +1,6 @@
 {
   "name": "parse-server-generator",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Generate Parse Server apps easily in the command line",
   "main": "index.js",
   "scripts": {
